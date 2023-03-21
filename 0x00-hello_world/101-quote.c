@@ -3,6 +3,8 @@
 /**
  * main - A c program that prints a line to the standard error
  *
+ * Description:'a c program that prints a line'
+ *
  * return: 1 (Success)
  */
 int main(void)
