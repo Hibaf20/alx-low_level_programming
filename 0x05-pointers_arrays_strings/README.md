@@ -1,1 +1,1 @@
- POINTERS , ARRAYS 
+pointers arrays
